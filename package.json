@@ -13,7 +13,7 @@
   "author": "Sir_Boops",
   "license": "GPL-3.0",
   "dependencies": {
-    "ws": "3.0.0",
+    "ws": "3.3.1",
     "tail": "1.2.2"
   }
 }
